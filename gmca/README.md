@@ -1,6 +1,6 @@
 # Greater Manchester Combined Authority Expenditure Data
 
-This contains a CSV file of the ten councils in the GMCA - 
+This contains CSV files of the ten councils in the GMCA - 
 
 It is compiled from Local Open Data Governemnt Expenditure files and 
 covers the period 01/01/2019 - 31/12/2019.

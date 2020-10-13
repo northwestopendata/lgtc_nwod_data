@@ -111,6 +111,7 @@ category spending between councils
  org_short_name | total_rows |  min_date  |  max_date  | map_entries | m_percent | total_spend
 ----------------+------------+------------+------------+-------------+-----------+--------------
  trafford       |    1798399 | 2019-01-02 | 2019-12-23 |        2289 |     76.51 | 659649761.03
+ wigan          |      67306 | 2019-12-31 | 2019-12-31 |        2587 |     82.90 | 360843319.69
 ````
 The map_entries is the number of individual companies per council, the m_percent is the percent
 of beneficiaries that have been match to external datasets. Generally the matched amount will be 

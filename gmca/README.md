@@ -118,7 +118,7 @@ category spending between councils
  bury           |      33166 | 2015-10-23 | 2020-01-03 |        2087 |     83.33 | 149820096.13
  salford        |      16793 | 2019-01-02 | 2019-12-30 |        2011 |     70.98 | 327172549.77
  oldham         |      16864 | 2019-01-02 | 2019-12-31 |        1847 |     71.73 | 224118911.65
- stockport      |      94315 | 2019-01-02 | 2019-10-31 |       44255 |     46.92 | 533125530.42
+ stockport      |      94315 | 2019-01-02 | 2019-10-31 |        2445 |     46.92 | 533125530.42
 ````
 The map_entries is the number of individual companies per council, the m_percent is the percent
 of beneficiaries that have been match to external datasets. Generally the matched amount will be 

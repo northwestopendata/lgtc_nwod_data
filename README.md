@@ -36,8 +36,7 @@ Further information can be found on [Northwest Open Data Website](http://www.nor
 ---
 
 ## Example Uses
-<iframe title="Greater Manchester Spend Data Summary" aria-label="Split Bars" id="datawrapper-chart-0FqnO" src="https://datawrapper.dwcdn.net/0FqnO/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="572"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+<iframe src='https://flo.uri.sh/visualisation/4239576/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/4239576/?utm_source=embed&utm_campaign=visualisation/4239576' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 See Also
 
